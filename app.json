@@ -1,0 +1,7 @@
+{
+  "name": "Spring Boot Tutorial",
+  "description": "Tutorial de Spring Boot disponível no blog da AlgaWorks.",
+  "repository": "https://github.com/paulosalgado/spring-boot-tutorial",
+  "logo": "http://assets.algaworks.com/static/images/logo-algaworks-vertical-160x160.png",
+  "keywords": ["java", "spring", "spring-boot", "maven"]
+}
