@@ -4,4 +4,4 @@
 Tutorial no blog da AlgaWorks: http://blog.algaworks.com/spring-boot/.
 
 ### Abrindo a aplicação
-Acesse /contatos.
+Acesse "/contatos".
